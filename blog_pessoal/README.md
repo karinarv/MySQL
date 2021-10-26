@@ -3,10 +3,11 @@
 ## 1) Mostrar o DER 
 
 Esse link mostrará o DER -> https://dbdesigner.page.link/GdNnntUzfy5WJbPN8
+Link para o PDF -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog%20Pessoal-dbdesigner.pdf
 
 ## 2) Dicionário de dados
 
-<div align="center">
+<div>
 
 ### Postagens 
  
@@ -133,9 +134,10 @@ Esse link mostrará o DER -> https://dbdesigner.page.link/GdNnntUzfy5WJbPN8
 <br>
 
 ## 3) DER do Blog Pessoal 
-  
-  Esse link mostra o PDF do DER -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog%20Pessoal-dbdesigner.pdf
-  
+
+ 
+ <img src = "https://github.com/karinarv/MySQL/blob/main/blog_pessoal/DER.png"> </img>
+      
 
 ## 4) Código em SQL 
 
