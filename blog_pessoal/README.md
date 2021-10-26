@@ -134,7 +134,8 @@ Esse link mostrará o DER -> https://dbdesigner.page.link/GdNnntUzfy5WJbPN8
 
 ## 3) DER do Blog Pessoal 
   
-  Esse link mostra o PDF do DER -> https://drive.google.com/file/d/1NjiZa8rXuVmTKqDXeuR8nvr9htHdH5Ti/view?usp=sharing
+  Esse link mostra o PDF do DER -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog%20Pessoal-dbdesigner.pdf
+  
 
 ## 4) Código em SQL 
 
