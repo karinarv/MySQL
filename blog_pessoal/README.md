@@ -4,7 +4,7 @@
 
 Esse link mostrará o DER -> https://dbdesigner.page.link/GdNnntUzfy5WJbPN8
 
-Link para o PDF -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog%20Pessoal-dbdesigner.pdf
+Link para o PDF -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog%20Pessoal-dbdesigner%20.pdf
 
 ## 2) Dicionário de dados
 
@@ -142,7 +142,7 @@ Link para o PDF -> https://github.com/karinarv/MySQL/blob/main/blog_pessoal/Blog
 
 ## 4) Código em SQL 
 
-         CREATE TABLE `Temas` (
+        CREATE TABLE `Temas` (
          `id` INT NOT NULL AUTO_INCREMENT,
          `descricao` varchar(255) NOT NULL,
          PRIMARY KEY (`id`)
