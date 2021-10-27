@@ -28,4 +28,3 @@ ALTER TABLE `Postagens` ADD CONSTRAINT `Postagens_fk1` FOREIGN KEY (`usuario_id`
 
 
 
-
